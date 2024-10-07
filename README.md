@@ -1,4 +1,4 @@
-
+## Hi, this is my Week 5 - Lab: Build "Hello World" Django App 
 ## Screenshots
 
 ![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png)
